@@ -8,6 +8,7 @@
 Make your native android toast look beautiful.
 
 ## Preview
+![gif](https://raw.githubusercontent.com/feisher/TastyToast-lib/master/static/TastyToast.gif)
 ![gif](https://github.com/yadav-rahul/TastyToast/blob/lib/static/success.gif)
 ![gif](https://github.com/yadav-rahul/TastyToast/blob/lib/static/warning.gif)
 ![gif](https://github.com/yadav-rahul/TastyToast/blob/lib/static/error.gif)
